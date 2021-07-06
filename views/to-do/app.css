@@ -1,0 +1,12 @@
+body {
+	background-color: antiquewhite;
+	color: tomato;
+	font-size: 1.5rem;
+}
+h1 {
+	font-size: 3rem;
+}
+.container {
+	margin-left: 15vw;
+	margin-right: 15vw;
+}
